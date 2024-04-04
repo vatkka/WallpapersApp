@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "20934640396",
+    "project_id": "wallpaperfirestore-24eb0",
+    "storage_bucket": "wallpaperfirestore-24eb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20934640396:android:e4ff3ab1bb4efed3d63f29",
+        "android_client_info": {
+          "package_name": "com.vatkka.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20934640396-lk4gauc8r6ooihi8k9q0an95595ccr4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcbzCwJ9M1j03QuGXEy0kyPoNPAg992gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20934640396-lk4gauc8r6ooihi8k9q0an95595ccr4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20934640396:android:010240b093d22955d63f29",
+        "android_client_info": {
+          "package_name": "com.vatkka.wallpapersapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20934640396-lk4gauc8r6ooihi8k9q0an95595ccr4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcbzCwJ9M1j03QuGXEy0kyPoNPAg992gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20934640396-lk4gauc8r6ooihi8k9q0an95595ccr4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

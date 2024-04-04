@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.DownloadFragment"
+    android:background="#1A1A1D">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_alignParentTop="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Downloaded"
+            android:layout_marginStart="28dp"
+            android:textColor="#d00000"
+            android:textSize="39dp"
+            android:fontFamily="@font/nunito_bold"
+            ></TextView>
+
+
+    </RelativeLayout>
+
+
+
+
+</FrameLayout>
